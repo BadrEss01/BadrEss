@@ -6,25 +6,29 @@ I am an Artificial Intelligence Master's student at BTU Cottbus-Senftenberg with
 
 Based in Cottbus, Germany. Interested in junior and working-student opportunities in robotics, computer vision and applied AI.
 
-[LinkedIn](https://www.linkedin.com/in/badr-essefiany-283a86186/) · [GitHub repositories](https://github.com/BqdrEss?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/badr-essefiany-283a86186/) · [GitHub repositories](https://github.com/BadrEss01?tab=repositories)
 
 ## Selected robotics & computer-vision work
 
 | Project | Focus | What to explore |
 | --- | --- | --- |
-| [Duckietown robotics](https://github.com/BqdrEss/Duckie_Town) | Python, OpenCV, ROS 1 | Camera-based line-following code, focused synthetic tests and documented interfaces. Historical coursework with upstream attribution; hardware operation has not been revalidated. |
-| [Computer-vision algorithms](https://github.com/BqdrEss/Computer_Vision) | Python, NumPy, image processing | Convolution, template matching, Canny edges and Hough voting, with synthetic regression checks. |
-| [Surface-inspection baseline](https://github.com/BqdrEss/Computer_Vision/tree/main/projects/wall-blade-surface-defects) | OpenCV, segmentation, connected components | A new image-based contrast-anomaly detector inspired by the wind-blade inspection thesis. A software baseline, not a validated damage classifier or robot-integrated system. |
+| [Duckietown robotics](https://github.com/BadrEss01/Duckie_Town) | Python, OpenCV, ROS 1 | Camera-based line-following code, focused synthetic tests and documented interfaces. Historical coursework with upstream attribution; hardware operation has not been revalidated. |
+| [Computer-vision algorithms](https://github.com/BadrEss01/Computer_Vision) | Python, NumPy, image processing | Convolution, template matching, Canny edges and Hough voting, with synthetic regression checks. |
+| [Surface-inspection baseline](https://github.com/BadrEss01/Computer_Vision/tree/main/projects/wall-blade-surface-defects) | OpenCV, segmentation, connected components | A new image-based contrast-anomaly detector inspired by the wind-blade inspection thesis. A software baseline, not a validated damage classifier or robot-integrated system. |
 
 ### Wind-blade inspection thesis
 
 My cooperative Bachelor's thesis concerned a wind-blade inspection system combining a UAV and a wall-climbing ground robot. My reported contribution centered on the ground-robot prototype, including Fusion 360 design, 3D-printed parts, assembly and programming. The new surface-inspection baseline linked above is a separate follow-up, not a result from the original thesis.
 
+[Read the wind-blade project overview](projects/wind-blade-inspection/README.md).
+
+[Underwater robotics project context](projects/underwater-robotics/README.md) connects the class project to the available simulation archive.
+
 ## Applied AI & data experience
 
-During my Plan4Co internship, I worked on data preparation and forecasting-related machine-learning workflows, with coordination responsibilities among fellow interns. Company code and data are not reproduced in this public portfolio.
+During my Plan4Co internship, I worked on data preparation and forecasting-related machine-learning workflows, with coordination responsibilities among fellow interns. Company code and data are not reproduced in this public portfolio. [Read the public experience summary](experience/plan4co/README.md).
 
-My current public, reproducible examples are strongest in robotics and image processing. Additional data/ML projects will be linked as they become documented and shareable.
+My current public, reproducible examples are strongest in robotics and image processing. Additional data/ML projects will be linked as they become documented and shareable. The collaborative cars-free project remains unfinished; its code is not currently available for this portfolio review.
 
 ## Technical focus
 
@@ -35,7 +39,7 @@ My current public, reproducible examples are strongest in robotics and image pro
 
 ## Coursework & supporting repositories
 
-[Browse the coursework index](COURSEWORK.md) for C, C++, algorithms, MATLAB and introductory robotics. Coursework and inherited frameworks are kept separate from selected portfolio projects.
+[Browse the coursework index](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md) for C, C++, algorithms, MATLAB and introductory robotics. Coursework and inherited frameworks are kept separate from selected portfolio projects.
 
 ## About the work here
 
