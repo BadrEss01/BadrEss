@@ -2,45 +2,65 @@
 
 ### Robotics · Computer Vision · Applied AI
 
-I am an Artificial Intelligence Master's student at BTU Cottbus-Senftenberg with a robotics Bachelor's background from Jacobs University Bremen. My interests lie in visual perception, mobile robotics and practical machine learning—from processing sensor data to testing useful algorithms.
+I am an Artificial Intelligence Master's student at BTU Cottbus-Senftenberg with a robotics Bachelor's background from Jacobs University Bremen. My interests are visual perception, mobile robotics and practical machine learning.
 
 Based in Cottbus, Germany. Interested in junior and working-student opportunities in robotics, computer vision and applied AI.
 
-[LinkedIn](https://www.linkedin.com/in/badr-essefiany-283a86186/) · [GitHub repositories](https://github.com/BadrEss01?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/badr-essefiany-283a86186/) · [Selected projects](#selected-projects) · [Applied AI experience](#applied-ai-experience) · [Coursework](COURSEWORK.md)
 
-## Selected robotics & computer-vision work
+## Selected projects
 
-| Project | Focus | What to explore |
+Start here for applied robotics and perception work. Academic origins and current validation status are stated for each project.
+
+| Project | Focus | Available evidence |
 | --- | --- | --- |
-| [Duckietown robotics](https://github.com/BadrEss01/Duckie_Town) | Python, OpenCV, ROS 1 | Camera-based line-following code, focused synthetic tests and documented interfaces. Historical coursework with upstream attribution; hardware operation has not been revalidated. |
-| [Computer-vision algorithms](https://github.com/BadrEss01/Computer_Vision) | Python, NumPy, image processing | Convolution, template matching, Canny edges and Hough voting, with synthetic regression checks. |
-| [Surface-inspection baseline](https://github.com/BadrEss01/Computer_Vision/tree/main/projects/wall-blade-surface-defects) | OpenCV, segmentation, connected components | A new image-based contrast-anomaly detector inspired by the wind-blade inspection thesis. A software baseline, not a validated damage classifier or robot-integrated system. |
+| [Visual surface inspection](https://github.com/BadrEss01/Computer_Vision/tree/main/projects/wall-blade-surface-defects) | Python, OpenCV, segmentation | Runnable contrast-anomaly baseline and synthetic tests; new follow-up, not robot-integrated or validated on blade defects. |
+| [Duckietown robotics](https://github.com/BadrEss01/Duckie_Town) | ROS 1, OpenCV, camera-based control | Academic project with line-following code, focused tests and upstream attribution; hardware operation has not been revalidated. |
+| [Wind-blade inspection robot](projects/wind-blade-inspection/README.md) | Mechanical design and prototyping | Cooperative thesis overview; reported Fusion 360, 3D printing, assembly and programming contribution. CAD and firmware are not published here. |
 
-### Wind-blade inspection thesis
+[Underwater robotics / RAMI project context](projects/underwater-robotics/README.md) provides a separate account of the class project and available simulation material. The simulator archive is supporting infrastructure, not a verified personal detection implementation.
 
-My cooperative Bachelor's thesis concerned a wind-blade inspection system combining a UAV and a wall-climbing ground robot. My reported contribution centered on the ground-robot prototype, including Fusion 360 design, 3D-printed parts, assembly and programming. The new surface-inspection baseline linked above is a separate follow-up, not a result from the original thesis.
+## Applied AI experience
 
-[Read the wind-blade project overview](projects/wind-blade-inspection/README.md).
+[Plan4Co internship — forecasting and data preparation](experience/plan4co/README.md)
 
-[Underwater robotics project context](projects/underwater-robotics/README.md) connects the class project to the available simulation archive.
-
-## Applied AI & data experience
-
-During my Plan4Co internship, I worked on data preparation and forecasting-related machine-learning workflows, with coordination responsibilities among fellow interns. Company code and data are not reproduced in this public portfolio. [Read the public experience summary](experience/plan4co/README.md).
-
-My current public, reproducible examples are strongest in robotics and image processing. Additional data/ML projects will be linked as they become documented and shareable. The collaborative cars-free project remains unfinished; its code is not currently available for this portfolio review.
+Data preparation and forecasting-related machine-learning workflows, with reported coordination responsibilities among fellow interns. This is an experience summary; company software and data remain private.
 
 ## Technical focus
 
-- **Perception and image processing:** Python, NumPy, OpenCV; object-detection project experience.
-- **Robotics:** ROS 1 coursework, camera-based control and prototype integration.
-- **Engineering foundations:** C/C++, MATLAB, Git and Linux.
-- **Prototyping:** Fusion 360, 3D printing and mechanical assembly.
+Python · NumPy · OpenCV · ROS 1 · C/C++ · MATLAB · Git · Linux · Fusion 360 · 3D printing
 
-## Coursework & supporting repositories
+## Coursework
 
-[Browse the coursework index](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md) for C, C++, algorithms, MATLAB and introductory robotics. Coursework and inherited frameworks are kept separate from selected portfolio projects.
+Foundational assignments are kept separate from the selected project list.
 
-## About the work here
+<details>
+<summary>Browse academic exercises and lab material</summary>
 
-Historical coursework, upstream examples and new maintenance work are identified in the project documentation. The September 2026 maintenance pass includes AI-assisted code completion, repairs and tests; it should not be read as evidence that those additions were implemented during the original coursework. Synthetic tests establish limited software behavior, not real-world robotics performance.
+- [C programming](https://github.com/BadrEss01/Programming_in_C)
+- [C++ programming](https://github.com/BadrEss01/Programming_in_Cpp)
+- [Algorithms & data structures](https://github.com/BadrEss01/AlgoDataStruct)
+- [MATLAB robotics exercises](https://github.com/BadrEss01/MATLAB)
+- [Introductory robotics labs](https://github.com/BadrEss01/Introduction-to-Robotics)
+- [Computer-vision assignments](https://github.com/BadrEss01/Computer_Vision)
+- [Chess web application coursework](https://github.com/BadrEss01/WebAppChess)
+
+[Full coursework index and validation status](COURSEWORK.md)
+
+</details>
+
+## Supporting archives & upstream frameworks
+
+- [UUV Simulator workspace](https://github.com/BadrEss01/UUV_Simulator): historical simulation environment with preserved upstream attribution.
+- [darknet fork](https://github.com/BadrEss01/darknet) and [ROS line-follower fork](https://github.com/BadrEss01/Line-Follower--ROS): upstream frameworks/examples, not standalone claims of original authorship.
+
+<details>
+<summary>Project provenance and maintenance</summary>
+
+Historical coursework, upstream examples and new work are distinguished in the repository documentation. The September 2026 maintenance pass includes AI-assisted code completion, repairs and tests; those additions are not presented as original coursework results. Synthetic tests establish limited software behavior, not real-world robotics performance.
+
+The collaborative cars-free project remains unfinished and inaccessible to the current portfolio review. It is not presented as a completed public project.
+
+[Repository organization](docs/STRUCTURE.md)
+
+</details>
