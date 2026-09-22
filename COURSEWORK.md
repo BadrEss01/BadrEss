@@ -1,4 +1,8 @@
-# Coursework & supporting repositories
+# Coursework
+
+> **Academic exercises and study projects**
+>
+> [Return to selected projects](README.md#selected-projects)
 
 This index keeps foundational exercises and historical work separate from the selected projects on the [portfolio homepage](README.md). The repositories remain in their original locations, preserving their history and links.
 
@@ -11,16 +15,20 @@ This index keeps foundational exercises and historical work separate from the se
 | Algorithms and data structures | [AlgoDataStruct](https://github.com/BadrEss01/AlgoDataStruct) |
 | MATLAB | [MATLAB](https://github.com/BadrEss01/MATLAB) |
 | Introductory robotics | [Introduction-to-Robotics](https://github.com/BadrEss01/Introduction-to-Robotics) |
-| Computer vision | [Computer_Vision](https://github.com/BadrEss01/Computer_Vision) |
+| Computer vision assignments | [Computer_Vision](https://github.com/BadrEss01/Computer_Vision) — hw1–hw3; the inspection extension is linked separately in the portfolio |
 
 The computer-vision repository has undergone a focused repair and test pass. The C/C++ repositories now have build instructions and a checked introductory example; the C++ example also has a smoke-build workflow. The remaining entries have navigation and scope documentation. This does not imply that every assignment has been rebuilt or behavior-tested.
 
-## Other historical work
+## Secondary academic project
 
-- [UUV_Simulator](https://github.com/BadrEss01/UUV_Simulator): underwater simulation archive with upstream attribution, project-context notes and reproduction limitations.
 - [WebAppChess](https://github.com/BadrEss01/WebAppChess): historical React/Django web application with corrected setup paths; game implementation and runtime validation remain incomplete.
 
-## Upstream forks
+## Supporting archives and upstream frameworks
+
+These support learning or project development and are not featured as original implementations.
+
+- [UUV_Simulator](https://github.com/BadrEss01/UUV_Simulator): historical simulation workspace and upstream packages.
+
 
 - [darknet](https://github.com/BadrEss01/darknet)
 - [Line-Follower--ROS](https://github.com/BadrEss01/Line-Follower--ROS)
