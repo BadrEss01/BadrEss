@@ -28,3 +28,16 @@ Existing ROS package paths, assignment folders and MATLAB helper locations are r
 - New repositories and repository renaming are not supported by the available connector operations.
 - To display this repository's README on the BadrEss01 profile, rename this repository from BadrEss to BadrEss01.
 - No company data or private code was published.
+
+## Navigation categories — September 2026
+
+| Category | Entries | Presentation |
+| --- | --- | --- |
+| Selected projects | Duckietown, wind-blade thesis overview, surface-inspection extension | First section of the portfolio; academic origin and evidence status retained |
+| Experience | Plan4Co | Separate public summary, with no company code |
+| Coursework | C, C++, algorithms, MATLAB, robotics labs, CV assignments, chess | Dedicated COURSEWORK.md index and collapsed homepage section |
+| Supporting archives/frameworks | UUV workspace, darknet fork, ROS line-follower fork | Separate supporting section with attribution |
+
+Each maintained repository README has a category label and navigation back to projects/coursework. Computer_Vision explicitly separates its assignment directories from the applied inspection extension.
+
+Repository names, GitHub topics and profile pins are unchanged. This pass changes navigation and documentation, not source paths or GitHub account settings. No repository has been marked read-only using GitHub's Archive setting.
