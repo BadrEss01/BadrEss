@@ -1,3 +1,4 @@
+
 # Badr Essefiany
 
 ### Robotics · Computer Vision · Applied AI
@@ -37,13 +38,13 @@ Foundational assignments are kept separate from the selected project list.
 <details>
 <summary>Browse academic exercises and lab material</summary>
 
-- [C programming](https://github.com/BadrEss01/Programming_in_C)
-- [C++ programming](https://github.com/BadrEss01/Programming_in_Cpp)
-- [Algorithms & data structures](https://github.com/BadrEss01/AlgoDataStruct)
-- [MATLAB robotics exercises](https://github.com/BadrEss01/MATLAB)
-- [Introductory robotics labs](https://github.com/BadrEss01/Introduction-to-Robotics)
+- [C programming](https://github.com/BadrEss01/coursework-c)
+- [C++ programming](https://github.com/BadrEss01/coursework-cpp)
+- [Algorithms & data structures](https://github.com/BadrEss01/coursework-algorithms)
+- [MATLAB robotics exercises](https://github.com/BadrEss01/coursework-matlab)
+- [Introductory robotics labs](https://github.com/BadrEss01/coursework-robotics)
 - [Computer-vision assignments](https://github.com/BadrEss01/Computer_Vision)
-- [Chess web application coursework](https://github.com/BadrEss01/WebAppChess)
+- [Chess web application coursework](https://github.com/BadrEss01/coursework-chess-webapp)
 
 [Full coursework index and validation status](COURSEWORK.md)
 
