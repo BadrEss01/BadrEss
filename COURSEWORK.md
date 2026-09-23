@@ -4,32 +4,30 @@
 >
 > [Return to selected projects](README.md#selected-projects)
 
-This index keeps foundational exercises and historical work separate from the selected projects on the [portfolio homepage](README.md). The repositories remain in their original locations, preserving their history and links.
+This index keeps foundational exercises and historical work separate from the selected projects on the [portfolio homepage](README.md). Repository names use a `coursework-` prefix where they represent foundational study work.
 
 ## Foundational coursework
 
 | Area | Repository |
 | --- | --- |
-| C programming | [Programming_in_C](https://github.com/BadrEss01/Programming_in_C) |
-| C++ programming | [Programming_in_Cpp](https://github.com/BadrEss01/Programming_in_Cpp) |
-| Algorithms and data structures | [AlgoDataStruct](https://github.com/BadrEss01/AlgoDataStruct) |
-| MATLAB | [MATLAB](https://github.com/BadrEss01/MATLAB) |
-| Introductory robotics | [Introduction-to-Robotics](https://github.com/BadrEss01/Introduction-to-Robotics) |
+| C programming | [coursework-c](https://github.com/BadrEss01/coursework-c) |
+| C++ programming | [coursework-cpp](https://github.com/BadrEss01/coursework-cpp) |
+| Algorithms and data structures | [coursework-algorithms](https://github.com/BadrEss01/coursework-algorithms) |
+| MATLAB | [coursework-matlab](https://github.com/BadrEss01/coursework-matlab) |
+| Introductory robotics | [coursework-robotics](https://github.com/BadrEss01/coursework-robotics) |
 | Computer vision assignments | [Computer_Vision](https://github.com/BadrEss01/Computer_Vision) — hw1–hw3; the inspection extension is linked separately in the portfolio |
 
 The computer-vision repository has undergone a focused repair and test pass. The C/C++ repositories now have build instructions and a checked introductory example; the C++ example also has a smoke-build workflow. The remaining entries have navigation and scope documentation. This does not imply that every assignment has been rebuilt or behavior-tested.
 
 ## Secondary academic project
 
-- [WebAppChess](https://github.com/BadrEss01/WebAppChess): historical React/Django web application with corrected setup paths; game implementation and runtime validation remain incomplete.
+- [coursework-chess-webapp](https://github.com/BadrEss01/coursework-chess-webapp): historical React/Django web application with corrected setup paths; game implementation and runtime validation remain incomplete.
 
 ## Supporting archives and upstream frameworks
 
 These support learning or project development and are not featured as original implementations.
 
 - [UUV_Simulator](https://github.com/BadrEss01/UUV_Simulator): historical simulation workspace and upstream packages.
-
-
 - [darknet](https://github.com/BadrEss01/darknet)
 - [Line-Follower--ROS](https://github.com/BadrEss01/Line-Follower--ROS)
 
