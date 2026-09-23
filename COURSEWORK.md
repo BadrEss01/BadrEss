@@ -28,9 +28,9 @@ The computer-vision repository has undergone a focused repair and test pass. The
 These support learning or project development and are not featured as original implementations.
 
 - [UUV_Simulator](https://github.com/BadrEss01/UUV_Simulator): historical simulation workspace and upstream packages.
-- [darknet](https://github.com/BadrEss01/darknet)
-- [Line-Follower--ROS](https://github.com/BadrEss01/Line-Follower--ROS)
+- [darknet](https://github.com/pjreddie/darknet)
+- [Line-Follower--ROS](https://github.com/arjunskumar/Line-Follower--ROS)
 
-These are forks, not claims of authorship of the upstream systems. Their original attribution and licensing should be retained.
+These are upstream resources, not claims of authorship of those systems. Their original attribution and licensing should be retained.
 
 Private company repositories and third-party projects without confirmed access are intentionally not published or mirrored here.
