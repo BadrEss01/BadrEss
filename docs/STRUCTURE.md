@@ -1,6 +1,6 @@
 # Portfolio organization
 
-The portfolio repository is an index and a home for project write-ups; executable projects remain in their existing repositories.
+The profile repository is an index and a home for project write-ups; executable projects remain in their existing repositories.
 
 | Path | Purpose |
 | --- | --- |
@@ -16,6 +16,9 @@ Existing ROS package paths, assignment folders and MATLAB helper locations are r
 ## Maintenance record — September 2026
 
 - Updated portfolio links for the BadrEss01 username.
+- Renamed foundational study repositories with a `coursework-` prefix to distinguish coursework from selected projects.
+- Renamed the profile repository to `BadrEss01` so its README is displayed on the account profile.
+- Pinned Duckie_Town and Computer_Vision as the primary profile projects.
 - Added project overviews and separate coursework navigation.
 - Removed generated executables, ROS outputs and Python bytecode from selected current branches; Git history retains them.
 - Corrected chess setup folder names and documented its unfinished status.
@@ -25,19 +28,17 @@ Existing ROS package paths, assignment folders and MATLAB helper locations are r
 ## Remaining external dependencies
 
 - cars-free still returned 404 through the connected GitHub account.
-- New repositories and repository renaming are not supported by the available connector operations.
-- To display this repository's README on the BadrEss01 profile, rename this repository from BadrEss to BadrEss01.
 - No company data or private code was published.
 
-## Navigation categories — September 2026
+## Navigation categories
 
 | Category | Entries | Presentation |
 | --- | --- | --- |
 | Selected projects | Duckietown, wind-blade thesis overview, surface-inspection extension | First section of the portfolio; academic origin and evidence status retained |
 | Experience | Plan4Co | Separate public summary, with no company code |
-| Coursework | C, C++, algorithms, MATLAB, robotics labs, CV assignments, chess | Dedicated COURSEWORK.md index and collapsed homepage section |
+| Coursework | coursework-c, coursework-cpp, coursework-algorithms, coursework-matlab, coursework-robotics, Computer_Vision assignments, coursework-chess-webapp | Dedicated COURSEWORK.md index and collapsed homepage section |
 | Supporting archives/frameworks | UUV workspace, darknet fork, ROS line-follower fork | Separate supporting section with attribution |
 
 Each maintained repository README has a category label and navigation back to projects/coursework. Computer_Vision explicitly separates its assignment directories from the applied inspection extension.
 
-Repository names, GitHub topics and profile pins are unchanged. This pass changes navigation and documentation, not source paths or GitHub account settings. No repository has been marked read-only using GitHub's Archive setting.
+No repository has been deleted, archived, made private, or otherwise destructively changed; renames preserve history and GitHub redirects.
