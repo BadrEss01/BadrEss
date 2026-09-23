@@ -53,7 +53,7 @@ Foundational assignments are kept separate from the selected project list.
 ## Supporting archives & upstream frameworks
 
 - [UUV Simulator workspace](https://github.com/BadrEss01/UUV_Simulator): historical simulation environment with preserved upstream attribution.
-- [darknet fork](https://github.com/BadrEss01/darknet) and [ROS line-follower fork](https://github.com/BadrEss01/Line-Follower--ROS): upstream frameworks/examples, not standalone claims of original authorship.
+- [darknet upstream](https://github.com/pjreddie/darknet) and [ROS line-follower upstream](https://github.com/arjunskumar/Line-Follower--ROS): upstream frameworks/examples, not standalone claims of original authorship.
 
 <details>
 <summary>Project provenance and maintenance</summary>
